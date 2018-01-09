@@ -8,7 +8,7 @@ I want to acknowledge [Dr. Jeff Leek's](http://jtleek.com/) list of [genomics pa
 
 Feel free to e-mail at akulkarn@mail.einstein.yu.edu or tweet at [@Mr_Genetics](https://twitter.com/Mr_Genetics)
 
-Introduction to Biological Hallmarks of Aging and Geroscience
+Introduction to Biology of Aging
 ==============
 
 * [The Hallmarks of Aging](http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf) - This is a landmark paper in geroscience, inspired by Hanahan and Weinberg's [Hallmarks of Cancer](http://www.cell.com/cell/pdf/S0092-8674(11)00127-9.pdf). It establishes 9 major biological phenomenons divided into primary, antagonistic and integrative hallmarks of aging.
