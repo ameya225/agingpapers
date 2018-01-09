@@ -6,7 +6,8 @@ I was introduced to the concept of aging biology and the possibility of targetin
 
 I want to acknowledge [Dr. Jeff Leek's](http://jtleek.com/) list of [genomics papers](https://github.com/jtleek/genomicspapers) that inspired me to do the same for the aging field. I am happy to hear your thoughts and take suggestions for this list.
 
-==============
+Feel free to e-mail at akulkarn@mail.einstein.yu.edu or tweet at [@Mr_Genetics](https://twitter.com/Mr_Genetics)
+
 Introduction to Biological Hallmarks of Aging and Geroscience
 ==============
 
